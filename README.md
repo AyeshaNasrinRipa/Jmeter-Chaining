@@ -70,4 +70,5 @@ Random Variable Controller is used to generate random amounts for transactions.
 
 ## 📸 Screenshots
 Summary & Statistics Report
-<img width="1680" height="840" alt="image" src="https://github.com/user-attachments/assets/82ace634-8277-42ab-8fa9-177f03f5a9ab" />
+
+<img width="1169" height="495" alt="HTML Report " src="https://github.com/user-attachments/assets/484d5294-a8d0-4789-89a3-bc7787f5e348" />
